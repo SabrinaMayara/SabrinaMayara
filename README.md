@@ -1,4 +1,9 @@
 ### Hi there 👋
+Meu nome é Sabrina Mayara Ferreira
+Sou professora do Edutech-Pr / Trilha de JAVA
+Iniciante no mundo da programação, começando do zero
+Minha escola polo é o Colégio Estadual Rio Branco, localizado em Santo Antônio da Platina 
+
 
 <!--
 **SabrinaMayara/SabrinaMayara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
