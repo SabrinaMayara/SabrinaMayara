@@ -3,7 +3,7 @@
 - Professora do Edutech-Pr / Trilha de JAVA;
 - Iniciante no mundo da programação, começando do zero;
 - Minha escola polo é o Colégio Estadual Rio Branco, localizado em Santo Antônio da Platina;
-- Potterhead e amante da Marvel;
+- Potterhead :)
 
 ![](https://komarev.com/ghpvc/?username=SabrinaMayara&color=ff69b4)
 
