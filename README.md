@@ -1,9 +1,9 @@
 ### Hi there 👋
-- <p> ☆ Meu nome é Sabrina Mayara Ferreira;
-- <p> ☆ Professora do Edutech-Pr / Trilha de JAVA;
-- <p> ☆ Iniciante no mundo da programação, começando do zero;
-- <p> ☆ Colégio Estadual Rio Branco, localizado em Santo Antônio da Platina;
-- <p> ☆ Potterhead :)
+<p> ☆ Meu nome é Sabrina Mayara Ferreira;
+<p> ☆ Professora do Edutech-Pr / Trilha de JAVA;
+<p> ☆ Iniciante no mundo da programação, começando do zero;
+<p> ☆ Colégio Estadual Rio Branco, localizado em Santo Antônio da Platina;
+<p> ☆ Potterhead :)
 
 ![](https://komarev.com/ghpvc/?username=SabrinaMayara&color=ff69b4)
 
