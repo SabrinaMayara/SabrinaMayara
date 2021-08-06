@@ -1,9 +1,9 @@
 ### Hi there 👋
-- Meu nome é Sabrina Mayara Ferreira;
-- Professora do Edutech-Pr / Trilha de JAVA;
-- Iniciante no mundo da programação, começando do zero;
-- Minha escola polo é o Colégio Estadual Rio Branco, localizado em Santo Antônio da Platina;
-- Potterhead :)
+- <p> ☆ Meu nome é Sabrina Mayara Ferreira;
+- <p> ☆ Professora do Edutech-Pr / Trilha de JAVA;
+- <p> ☆ Iniciante no mundo da programação, começando do zero;
+- <p> ☆ Colégio Estadual Rio Branco, localizado em Santo Antônio da Platina;
+- <p> ☆ Potterhead :)
 
 ![](https://komarev.com/ghpvc/?username=SabrinaMayara&color=ff69b4)
 
@@ -12,6 +12,7 @@
 <a href="https://www.instagram.com/sabrinamayara" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
 
 <a href="sabrinamayaraferreira@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
+
 
 <!--
 **SabrinaMayara/SabrinaMayara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
